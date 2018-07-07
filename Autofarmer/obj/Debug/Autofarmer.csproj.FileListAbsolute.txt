@@ -1,0 +1,10 @@
+C:\Users\arttu\Desktop\gtautofarmer-master\Autofarmer\bin\Debug\Autofarmer.exe.config
+C:\Users\arttu\Desktop\gtautofarmer-master\Autofarmer\bin\Debug\Autofarmer.exe
+C:\Users\arttu\Desktop\gtautofarmer-master\Autofarmer\bin\Debug\Autofarmer.pdb
+C:\Users\arttu\Desktop\gtautofarmer-master\Autofarmer\obj\Debug\Autofarmer.csprojAssemblyReference.cache
+C:\Users\arttu\Desktop\gtautofarmer-master\Autofarmer\obj\Debug\Autofarmer.Autofarmer.resources
+C:\Users\arttu\Desktop\gtautofarmer-master\Autofarmer\obj\Debug\Autofarmer.Properties.Resources.resources
+C:\Users\arttu\Desktop\gtautofarmer-master\Autofarmer\obj\Debug\Autofarmer.csproj.GenerateResource.cache
+C:\Users\arttu\Desktop\gtautofarmer-master\Autofarmer\obj\Debug\Autofarmer.csproj.CoreCompileInputs.cache
+C:\Users\arttu\Desktop\gtautofarmer-master\Autofarmer\obj\Debug\Autofarmer.exe
+C:\Users\arttu\Desktop\gtautofarmer-master\Autofarmer\obj\Debug\Autofarmer.pdb
